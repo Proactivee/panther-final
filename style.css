@@ -284,7 +284,7 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
-    background-color: #f0692a;
+    background-color: #A3692A;
     padding-bottom: 10px;
     padding-top: 10px;
     border-radius: 25px;
@@ -756,7 +756,7 @@ h5{
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: white!important;
 }
 
 .portfolio-thumb {
@@ -773,7 +773,7 @@ h5{
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 1);
+    background-color: rgba(133, 107, 71, 1);
     padding: 40px 40px 40px 40px;
 }
 
@@ -791,7 +791,7 @@ h5{
 }
 
 .bgc-atomic-tangerine {
-    background-color:#f0692a;
+    background-color:#A3692A;
 }
 
 .tc-white {
@@ -799,7 +799,7 @@ h5{
 }
 
 .btn-atomic-tangerine {
-    background: #f0692a;
+    background: #A3692A;
     color: #FFFFFF!important;
 }
 
